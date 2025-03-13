@@ -1,12 +1,6 @@
-**`Desenvolvedor Back-End`**
+**`Desenvolvedor Front-End`**
 
 <p align="left">
-    <a href="https://www.youtube.com/@detestably?sub_confirmation=1">
-        <img 
-            alt="youtube subscribers" 
-            title="Inscreva-se no meu canal" 
-            src="https://custom-icon-badges.demolab.com/youtube/channel/subscribers/UCIzCWdx_XorHLOz_pdEN6qg?color=%23E05D44&label=Inscreva-se&logo=video&logoColor=white&style=for-the-badge&labelColor=CE4630"
-        />
     <a href="https://github.com/detestably?tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
