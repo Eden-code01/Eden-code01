@@ -1,14 +1,14 @@
 **`Desenvolvedor Front-End`**
 
 <p align="left">
-    <a href="https://github.com/detestably?tab=repositories&sort=stargazers">
+    <a href="https://github.com/Eden-code01tab=repositories&sort=stargazers">
         <img 
             alt="Total de estrelas" 
             title="Total de estrelas GitHub" 
             src="https://custom-icon-badges.demolab.com/github/stars/detestably?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
         />
     </a>
-    <a href="https://github.com/detestably?tab=followers">
+    <a href="https://github.com/Eden-code01tab=followers">
         <img 
             alt="Seguidores" 
             title="Me siga no GitHub" 
