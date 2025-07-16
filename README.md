@@ -84,8 +84,9 @@
         src="https://github-readme-stats.vercel.app/api?username=Eden-code01&show_icons=true&theme=dark" 
     />
     <img 
-        alt="GitHub Stats"
+        alt="GitHub Stats_Tec"
         height="183px" 
+        width= "350px"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eden-code01&theme=dark&layout=compact&custom_title=Tecnologias&lang_count=9" 
     />
 </div>
