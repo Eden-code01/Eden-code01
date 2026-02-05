@@ -76,21 +76,6 @@
 <br/>
 
 ### 📊 Estatísticas
-
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img 
-        alt="GitHub Stats"
-        height="183px" 
-        src="https://github-readme-stats.vercel.app/api?username=Eden-code01&show_icons=true&theme=dark" 
-    />
-    <img 
-        alt="GitHub Stats_Tec"
-        height="183px" 
-        width= "350px"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eden-code01&theme=dark&layout=compact&custom_title=Tecnologias&lang_count=9" 
-    />
-</div>
-
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eden-code01/Eden-code01/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Eden-code01/Eden-code01/output/github-contribution-grid-snake-dark.svg">
