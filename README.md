@@ -75,6 +75,15 @@
 <br/>
 <br/>
 
+## 📈 Estatísticas do GitHub
+
+<div>
+
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Eden-code01&show_icons=true&theme=dracula&count_private=true&hide_title=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eden-code01&layout=compact&theme=dracula&hide_title=true"/>
+
+</div>
+
 ### 📊 Estatísticas
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Eden-code01/Eden-code01/output/github-contribution-grid-snake-dark.svg">
